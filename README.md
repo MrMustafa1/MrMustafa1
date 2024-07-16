@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrMustafa1
 - 👀 I’m interested in Electric/Electronic
 - 🌱 I’m currently learning JavaScript, C#, Java
-- 📫 How to reach me Discord
+- 📫 How to reach me: Discord = mrelprofessor
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coffee in the morning and cats
 
